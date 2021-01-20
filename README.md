@@ -2,6 +2,9 @@
 人脸识别相关论文
 
 ## Table of Contents
+* 无主题
+  * survey
+ 
 * 大规模训练
   * Survey
   * Papers
@@ -10,6 +13,11 @@
   * Survey
   * Papers
   * Talks
+
+## 无主题
+### Survey
+* [The Elements of End-to-end Deep Face Recognition: A Survey of Recent Advances](https://arxiv.org/abs/2009.13290) | Hang Du, Hailin Shi, Dan Zeng, Tao Mei | 
+
 
 ## 大规模训练
 ### Survey
