@@ -32,5 +32,6 @@
 * [Data Uncertainty Learning in Face Recognition](https://arxiv.org/abs/2003.11339) | Jie Chang, et al. | [github(not official)](https://github.com/Ontheway361/dul-pytorch)
 * [PFLD: A Practical Facial Landmark Detector](https://arxiv.org/abs/2003.11339) | Xiaojie Guo, et al. | 
 * ood
+ * 2018 [A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks](https://arxiv.org/abs/1610.02136) | Dan Hendrycks, Kevin Gimpel |
 ### Talks
 
