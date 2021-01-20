@@ -2,9 +2,9 @@
 人脸识别相关论文
 
 ## Table of Contents
-* 无主题
+* 总综述
   * Survey
-*人脸检测
+* 人脸检测
   * Survey
   * Papers
   * Talks
