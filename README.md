@@ -37,7 +37,9 @@
 ## 噪声
 ### Survey
 ### Papers
+
 * 2018 ECCV | [The Devil of Face Recognition is in the Noise](https://openaccess.thecvf.com/content_ECCV_2018/html/Liren_Chen_The_Devil_of_ECCV_2018_paper.html) | Fei Wang, Liren Chen, Cheng Li, Shiyao Huang, Yanjie Chen, Chen Qian, Chen Change Loy  |
+* 2019 ICCV | [Co-Mining: Deep Face Recognition With Noisy Labels](https://openaccess.thecvf.com/content_ICCV_2019/html/Wang_Co-Mining_Deep_Face_Recognition_With_Noisy_Labels_ICCV_2019_paper.html) |Xiaobo Wang, Shuo Wang, Jun Wang, Hailin Shi, Tao Mei |
 * 2019 CVPR | [Noise-Tolerant Paradigm for Training Face Recognition CNNs](https://openaccess.thecvf.com/content_CVPR_2019/html/Hu_Noise-Tolerant_Paradigm_for_Training_Face_Recognition_CNNs_CVPR_2019_paper.html) | Wei Hu, Yangyu Huang, Fan Zhang, Ruirui Li | 
 * 2020 | [Data Uncertainty Learning in Face Recognition](https://arxiv.org/abs/2003.11339) | Jie Chang, et al. | [github(not official)](https://github.com/Ontheway361/dul-pytorch)
 
