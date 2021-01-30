@@ -30,7 +30,7 @@
 ## 大规模训练
 ### Survey
 ### Papers
-* 2020 | [Partial FC: Training 10 Million Identities on a Single Machine](https://arxiv.org/abs/2010.05222) | Xiang An, et al. | [github](https://github.com/deepinsight/insightface/tree/master/recognition/partial_fc)
+* 2020 | [Partial FC: Training 10 Million Identities on a Single Machine](https://arxiv.org/abs/2010.05222) | Xiang An, Xuhan Zhu, Yang Xiao, Lan Wu, Ming Zhang, Yuan Gao, Bin Qin, Debing Zhang, Ying Fu | [github](https://github.com/deepinsight/insightface/tree/master/recognition/partial_fc)
 ### Talks
 
 
@@ -41,7 +41,7 @@
 * 2018 ECCV | [The Devil of Face Recognition is in the Noise](https://openaccess.thecvf.com/content_ECCV_2018/html/Liren_Chen_The_Devil_of_ECCV_2018_paper.html) | Fei Wang, Liren Chen, Cheng Li, Shiyao Huang, Yanjie Chen, Chen Qian, Chen Change Loy  |
 * 2019 ICCV | [Co-Mining: Deep Face Recognition With Noisy Labels](https://openaccess.thecvf.com/content_ICCV_2019/html/Wang_Co-Mining_Deep_Face_Recognition_With_Noisy_Labels_ICCV_2019_paper.html) |Xiaobo Wang, Shuo Wang, Jun Wang, Hailin Shi, Tao Mei |
 * 2019 CVPR | [Noise-Tolerant Paradigm for Training Face Recognition CNNs](https://openaccess.thecvf.com/content_CVPR_2019/html/Hu_Noise-Tolerant_Paradigm_for_Training_Face_Recognition_CNNs_CVPR_2019_paper.html) | Wei Hu, Yangyu Huang, Fan Zhang, Ruirui Li | 
-* 2020 | [Data Uncertainty Learning in Face Recognition](https://openaccess.thecvf.com/content_CVPR_2020/html/Chang_Data_Uncertainty_Learning_in_Face_Recognition_CVPR_2020_paper.html) | Jie Chang, et al. | [github(not official)](https://github.com/Ontheway361/dul-pytorch)
+* 2020 CVPR | [Data Uncertainty Learning in Face Recognition](https://openaccess.thecvf.com/content_CVPR_2020/html/Chang_Data_Uncertainty_Learning_in_Face_Recognition_CVPR_2020_paper.html) | Jie Chang, Zhonghao Lan, Changmao Cheng, Yichen Wei; | [github(not official)](https://github.com/Ontheway361/dul-pytorch)
 * 2020 CVPR | [Global-Local GCN: Large-Scale Label Noise Cleansing for Face Recognition
 ](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Global-Local_GCN_Large-Scale_Label_Noise_Cleansing_for_Face_Recognition_CVPR_2020_paper.html) | Yaobin Zhang, Weihong Deng, Mei Wang, Jiani Hu, Xian Li, Dongyue Zhao, Dongchao Wen |
 
