@@ -45,6 +45,7 @@
 * 2020 CVPR | [Data Uncertainty Learning in Face Recognition](https://openaccess.thecvf.com/content_CVPR_2020/html/Chang_Data_Uncertainty_Learning_in_Face_Recognition_CVPR_2020_paper.html) | Jie Chang, Zhonghao Lan, Changmao Cheng, Yichen Wei; | [github(not official)](https://github.com/Ontheway361/dul-pytorch)
 * 2020 CVPR | [Global-Local GCN: Large-Scale Label Noise Cleansing for Face Recognition
 ](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Global-Local_GCN_Large-Scale_Label_Noise_Cleansing_for_Face_Recognition_CVPR_2020_paper.html) | Yaobin Zhang, Weihong Deng, Mei Wang, Jiani Hu, Xian Li, Dongyue Zhao, Dongchao Wen |
+* 2020 ECCV | [Semi-Siamese Training for Shallow Face Learning](https://link.springer.com/chapter/10.1007/978-3-030-58548-8_3) | Hang Du, Hailin Shi, Yuchi Liu, Jun Wang, Zhen Lei, Dan Zeng, Tao Mei | [github](https://github.com/dituu/Semi-Siamese-Training)
 
 * Out of distribution
   * 2018 | [A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks](https://arxiv.org/abs/1610.02136) | Dan Hendrycks, Kevin Gimpel |
