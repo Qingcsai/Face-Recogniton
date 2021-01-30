@@ -37,6 +37,7 @@
 ## 噪声
 ### Survey
 ### Papers
+* 2019CVPR | [Noise-Tolerant Paradigm for Training Face Recognition CNNs](https://openaccess.thecvf.com/content_CVPR_2019/html/Hu_Noise-Tolerant_Paradigm_for_Training_Face_Recognition_CNNs_CVPR_2019_paper.html) | Wei Hu, Yangyu Huang, Fan Zhang, Ruirui Li
 * 2020 | [Data Uncertainty Learning in Face Recognition](https://arxiv.org/abs/2003.11339) | Jie Chang, et al. | [github(not official)](https://github.com/Ontheway361/dul-pytorch)
 
 * Out of distribution
