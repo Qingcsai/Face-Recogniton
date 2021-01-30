@@ -36,6 +36,7 @@
 
 ## 噪声
 ### Survey
+* 2020 | [Learning from Noisy Labels with Deep Neural Networks: A Survey](https://arxiv.org/abs/2007.08199) | Hwanjun Song, Minseok Kim, Dongmin Park, Jae-Gil Lee | 
 ### Papers
 
 * 2018 ECCV | [The Devil of Face Recognition is in the Noise](https://openaccess.thecvf.com/content_ECCV_2018/html/Liren_Chen_The_Devil_of_ECCV_2018_paper.html) | Fei Wang, Liren Chen, Cheng Li, Shiyao Huang, Yanjie Chen, Chen Qian, Chen Change Loy  |
