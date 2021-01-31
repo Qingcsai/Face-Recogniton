@@ -56,7 +56,7 @@ Journal on Image and Video Processing | [Face recognition with Bayesian convolut
 ### Survey
 * 2020 | [Learning from Noisy Labels with Deep Neural Networks: A Survey](https://arxiv.org/abs/2007.08199) | Hwanjun Song, Minseok Kim, Dongmin Park, Jae-Gil Lee | 
 ### Papers
-* 2018 IEEE Transactions on Information Forensics and Security | [A Light CNN for Deep Face Representation With Noisy Labels](https://ieeexplore.ieee.org/abstract/document/8353856) | 
+* 2018 IEEE Transactions on Information Forensics and Security | [A Light CNN for Deep Face Representation With Noisy Labels](https://ieeexplore.ieee.org/abstract/document/8353856) | Xiang Wu, Ran He, Zhenan Sun, and Tieniu Tan
 * 2018 ECCV | [The Devil of Face Recognition is in the Noise](https://openaccess.thecvf.com/content_ECCV_2018/html/Liren_Chen_The_Devil_of_ECCV_2018_paper.html) | Fei Wang, Liren Chen, Cheng Li, Shiyao Huang, Yanjie Chen, Chen Qian, Chen Change Loy  |
 * 2019 ICCV | [Co-Mining: Deep Face Recognition With Noisy Labels](https://openaccess.thecvf.com/content_ICCV_2019/html/Wang_Co-Mining_Deep_Face_Recognition_With_Noisy_Labels_ICCV_2019_paper.html) |Xiaobo Wang, Shuo Wang, Jun Wang, Hailin Shi, Tao Mei |
 * 2019 CVPR | [Noise-Tolerant Paradigm for Training Face Recognition CNNs](https://openaccess.thecvf.com/content_CVPR_2019/html/Hu_Noise-Tolerant_Paradigm_for_Training_Face_Recognition_CNNs_CVPR_2019_paper.html) | Wei Hu, Yangyu Huang, Fan Zhang, Ruirui Li | 
