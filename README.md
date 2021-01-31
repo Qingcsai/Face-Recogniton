@@ -43,6 +43,8 @@
 * 2017 NIPS | [What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?](https://arxiv.org/abs/1703.04977) | Alex Kendall, Yarin Gal | 
 ### Papers
 #### Model uncertainty 
+* 2019 EURASIP
+Journal on Image and Video Processing| [Face recognition with Bayesian convolutional networks for robust surveillance systems](https://link.springer.com/article/10.1186/s13640-019-0406-y) | Umara Zafar, et al. | 
 * 2019 CVPR | [Striking the Right Balance With Uncertainty](https://openaccess.thecvf.com/content_CVPR_2019/html/Khan_Striking_the_Right_Balance_With_Uncertainty_CVPR_2019_paper.html) | Salman Khan, Munawar Hayat, Syed Waqas Zamir, Jianbing Shen, Ling Shao
 * 2019 | [On the Capacity of Face Representation](https://arxiv.org/abs/1709.10433) | Sixue Gong, Vishnu Naresh Boddeti, Anil K. Jain | 
 #### Data uncertainty 
