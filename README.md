@@ -34,7 +34,7 @@
 ### Talks
 
 
-## 噪声
+## 数据不确定性
 ### Survey
 * 2020 | [Learning from Noisy Labels with Deep Neural Networks: A Survey](https://arxiv.org/abs/2007.08199) | Hwanjun Song, Minseok Kim, Dongmin Park, Jae-Gil Lee | 
 ### Papers
