@@ -37,11 +37,16 @@
 * 2020 | [Partial FC: Training 10 Million Identities on a Single Machine](https://arxiv.org/abs/2010.05222) | Xiang An, Xuhan Zhu, Yang Xiao, Lan Wu, Ming Zhang, Yuan Gao, Bin Qin, Debing Zhang, Ying Fu | [github](https://github.com/deepinsight/insightface/tree/master/recognition/partial_fc)
 ### Talks
 
-## 数据不确定性
+## 不确定性
 ### Survey
 * 2016 | [Uncertainty in Deep Learning](http://mlg.eng.cam.ac.uk/yarin/blog_2248.html) | YARIN GAL
-### Papers
 * 2017 NIPS | [What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?](https://arxiv.org/abs/1703.04977) | Alex Kendall, Yarin Gal | 
+### Papers
+#### Model uncertainty 
+* 2019 CVPR | [Striking the Right Balance With Uncertainty](https://openaccess.thecvf.com/content_CVPR_2019/html/Khan_Striking_the_Right_Balance_With_Uncertainty_CVPR_2019_paper.html) | Salman Khan, Munawar Hayat, Syed Waqas Zamir, Jianbing Shen, Ling Shao
+* 2019 | [On the Capacity of Face Representation](https://arxiv.org/abs/1709.10433) | Sixue Gong, Vishnu Naresh Boddeti, Anil K. Jain | 
+#### Data uncertainty 
+
 * 2019 ICCV | [Probabilistic Face Embeddings](https://openaccess.thecvf.com/content_ICCV_2019/html/Shi_Probabilistic_Face_Embeddings_ICCV_2019_paper.html) | Yichun Shi, Anil K. Jain | 
 * 2020 CVPR | [Data Uncertainty Learning in Face Recognition](https://openaccess.thecvf.com/content_CVPR_2020/html/Chang_Data_Uncertainty_Learning_in_Face_Recognition_CVPR_2020_paper.html) | Jie Chang, Zhonghao Lan, Changmao Cheng, Yichen Wei; | [github(not official)](https://github.com/Ontheway361/dul-pytorch)
 
