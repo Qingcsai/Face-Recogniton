@@ -21,7 +21,7 @@
   * Papers
   * Talks
 
-## 无主题
+## 总综述
 * 2020 | [The Elements of End-to-end Deep Face Recognition: A Survey of Recent Advances](https://arxiv.org/abs/2009.13290) | Hang Du, Hailin Shi, Dan Zeng, Tao Mei | 
 * 2021 | [FaceX-Zoo: A PyTorch Toolbox for Face Recognition](https://arxiv.org/abs/2101.04407) | Jun Wang, Yinglu Liu, Yibo Hu, Hailin Shi, Tao Mei | [github](https://github.com/JDAI-CV/FaceX-Zoo)
 
