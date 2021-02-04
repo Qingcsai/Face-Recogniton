@@ -23,19 +23,19 @@
   * Talks
 
 ## 总综述
-* 2020 | [The Elements of End-to-end Deep Face Recognition: A Survey of Recent Advances](https://arxiv.org/abs/2009.13290) | Hang Du, Hailin Shi, Dan Zeng, Tao Mei | 
-* 2021 | [FaceX-Zoo: A PyTorch Toolbox for Face Recognition](https://arxiv.org/abs/2101.04407) | Jun Wang, Yinglu Liu, Yibo Hu, Hailin Shi, Tao Mei | [github](https://github.com/JDAI-CV/FaceX-Zoo)
+* 2020 | [The Elements of End-to-end Deep Face Recognition: A Survey of Recent Advances](https://arxiv.org/abs/2009.13290) | Hang Du, Tao Mei | 
+* 2021 | [FaceX-Zoo: A PyTorch Toolbox for Face Recognition](https://arxiv.org/abs/2101.04407) | Jun Wang, Tao Mei | [github](https://github.com/JDAI-CV/FaceX-Zoo)
 
 ## 人脸检测
 ### Survey
 ### Papers
-* 2019 | [PFLD: A Practical Facial Landmark Detector](https://arxiv.org/abs/1902.10859) | Xiaojie Guo, et al. | 
+* 2019 | [PFLD: A Practical Facial Landmark Detector](https://arxiv.org/abs/1902.10859) | Xiaojie Guo, Haibin Ling | 
 ### Talks
 
 ## 大规模训练
 ### Survey
 ### Papers
-* 2020 | [Partial FC: Training 10 Million Identities on a Single Machine](https://arxiv.org/abs/2010.05222) | Xiang An, Xuhan Zhu, Yang Xiao, Lan Wu, Ming Zhang, Yuan Gao, Bin Qin, Debing Zhang, Ying Fu | [github](https://github.com/deepinsight/insightface/tree/master/recognition/partial_fc)
+* 2020 | [Partial FC: Training 10 Million Identities on a Single Machine](https://arxiv.org/abs/2010.05222) | Xiang An, Ying Fu | [github](https://github.com/deepinsight/insightface/tree/master/recognition/partial_fc)
 ### Talks
 
 ## 不确定性
@@ -46,24 +46,24 @@
 #### Model uncertainty 
 * 2019 EURASIP
 Journal on Image and Video Processing | [Face recognition with Bayesian convolutional networks for robust surveillance systems](https://link.springer.com/article/10.1186/s13640-019-0406-y) | Umara Zafar, et al. | 
-* 2019 CVPR | [Striking the Right Balance With Uncertainty](https://openaccess.thecvf.com/content_CVPR_2019/html/Khan_Striking_the_Right_Balance_With_Uncertainty_CVPR_2019_paper.html) | Salman Khan, Munawar Hayat, Syed Waqas Zamir, Jianbing Shen, Ling Shao
-* 2019 | [On the Capacity of Face Representation](https://arxiv.org/abs/1709.10433) | Sixue Gong, Vishnu Naresh Boddeti, Anil K. Jain | 
+* 2019 CVPR | [Striking the Right Balance With Uncertainty](https://openaccess.thecvf.com/content_CVPR_2019/html/Khan_Striking_the_Right_Balance_With_Uncertainty_CVPR_2019_paper.html) | Salman Khan, Ling Shao
+* 2019 | [On the Capacity of Face Representation](https://arxiv.org/abs/1709.10433) | Sixue Gong, Anil K. Jain | 
 
 #### Data uncertainty 
 * 2019 ICCV | [Probabilistic Face Embeddings](https://openaccess.thecvf.com/content_ICCV_2019/html/Shi_Probabilistic_Face_Embeddings_ICCV_2019_paper.html) | Yichun Shi, Anil K. Jain | 
-* 2020 CVPR | [Data Uncertainty Learning in Face Recognition](https://openaccess.thecvf.com/content_CVPR_2020/html/Chang_Data_Uncertainty_Learning_in_Face_Recognition_CVPR_2020_paper.html) | Jie Chang, Zhonghao Lan, Changmao Cheng, Yichen Wei; | [github(not official)](https://github.com/Ontheway361/dul-pytorch)
+* 2020 CVPR | [Data Uncertainty Learning in Face Recognition](https://openaccess.thecvf.com/content_CVPR_2020/html/Chang_Data_Uncertainty_Learning_in_Face_Recognition_CVPR_2020_paper.html) | Jie Chang, Zhonghao Lan, Yichen Wei | [github(not official)](https://github.com/Ontheway361/dul-pytorch)
 
 ## 噪声
 ### Survey
-* 2020 | [Learning from Noisy Labels with Deep Neural Networks: A Survey](https://arxiv.org/abs/2007.08199) | Hwanjun Song, Minseok Kim, Dongmin Park, Jae-Gil Lee | 
+* 2020 | [Learning from Noisy Labels with Deep Neural Networks: A Survey](https://arxiv.org/abs/2007.08199) | Hwanjun Song, Jae-Gil Lee | 
 ### Papers
-* 2018 IEEE Transactions on Information Forensics and Security | [A Light CNN for Deep Face Representation With Noisy Labels](https://ieeexplore.ieee.org/abstract/document/8353856) | Xiang Wu, Ran He, Zhenan Sun, and Tieniu Tan
-* 2018 ECCV | [The Devil of Face Recognition is in the Noise](https://openaccess.thecvf.com/content_ECCV_2018/html/Liren_Chen_The_Devil_of_ECCV_2018_paper.html) | Fei Wang, Liren Chen, Cheng Li, Shiyao Huang, Yanjie Chen, Chen Qian, Chen Change Loy  |
-* 2019 ICCV | [Co-Mining: Deep Face Recognition With Noisy Labels](https://openaccess.thecvf.com/content_ICCV_2019/html/Wang_Co-Mining_Deep_Face_Recognition_With_Noisy_Labels_ICCV_2019_paper.html) |Xiaobo Wang, Shuo Wang, Jun Wang, Hailin Shi, Tao Mei |
-* 2019 CVPR | [Noise-Tolerant Paradigm for Training Face Recognition CNNs](https://openaccess.thecvf.com/content_CVPR_2019/html/Hu_Noise-Tolerant_Paradigm_for_Training_Face_Recognition_CNNs_CVPR_2019_paper.html) | Wei Hu, Yangyu Huang, Fan Zhang, Ruirui Li | 
+* 2018 IEEE Transactions on Information Forensics and Security | [A Light CNN for Deep Face Representation With Noisy Labels](https://ieeexplore.ieee.org/abstract/document/8353856) | Xiang Wu, Tieniu Tan
+* 2018 ECCV | [The Devil of Face Recognition is in the Noise](https://openaccess.thecvf.com/content_ECCV_2018/html/Liren_Chen_The_Devil_of_ECCV_2018_paper.html) | Fei Wang, Chen Change Loy  |
+* 2019 ICCV | [Co-Mining: Deep Face Recognition With Noisy Labels](https://openaccess.thecvf.com/content_ICCV_2019/html/Wang_Co-Mining_Deep_Face_Recognition_With_Noisy_Labels_ICCV_2019_paper.html) |Xiaobo Wang, Tao Mei |
+* 2019 CVPR | [Noise-Tolerant Paradigm for Training Face Recognition CNNs](https://openaccess.thecvf.com/content_CVPR_2019/html/Hu_Noise-Tolerant_Paradigm_for_Training_Face_Recognition_CNNs_CVPR_2019_paper.html) | Wei Hu, Ruirui Li | 
 * 2020 CVPR | [Global-Local GCN: Large-Scale Label Noise Cleansing for Face Recognition
-](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Global-Local_GCN_Large-Scale_Label_Noise_Cleansing_for_Face_Recognition_CVPR_2020_paper.html) | Yaobin Zhang, Weihong Deng, Mei Wang, Jiani Hu, Xian Li, Dongyue Zhao, Dongchao Wen |
-* 2020 ECCV | [Semi-Siamese Training for Shallow Face Learning](https://link.springer.com/chapter/10.1007/978-3-030-58548-8_3) | Hang Du, Hailin Shi, Yuchi Liu, Jun Wang, Zhen Lei, Dan Zeng, Tao Mei | [github](https://github.com/dituu/Semi-Siamese-Training)
+](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Global-Local_GCN_Large-Scale_Label_Noise_Cleansing_for_Face_Recognition_CVPR_2020_paper.html) | Yaobin Zhang, Dongchao Wen |
+* 2020 ECCV | [Semi-Siamese Training for Shallow Face Learning](https://link.springer.com/chapter/10.1007/978-3-030-58548-8_3) | Hang Du, Tao Mei | [github](https://github.com/dituu/Semi-Siamese-Training)
 
 * Out of distribution
   * 2018 | [A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks](https://arxiv.org/abs/1610.02136) | Dan Hendrycks, Kevin Gimpel |
