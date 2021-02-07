@@ -52,6 +52,17 @@ Journal on Image and Video Processing | [Face recognition with Bayesian convolut
 #### Data uncertainty 
 * 2019 ICCV | [Probabilistic Face Embeddings](https://openaccess.thecvf.com/content_ICCV_2019/html/Shi_Probabilistic_Face_Embeddings_ICCV_2019_paper.html) | Yichun Shi, Anil K. Jain | 
 * 2020 CVPR | [Data Uncertainty Learning in Face Recognition](https://openaccess.thecvf.com/content_CVPR_2020/html/Chang_Data_Uncertainty_Learning_in_Face_Recognition_CVPR_2020_paper.html) | Jie Chang, Zhonghao Lan, Yichen Wei | [github(not official)](https://github.com/Ontheway361/dul-pytorch)
+#### Others
+##### semantic segmentation  
+* 2017 IEEE INISTA | [Deep convolutional encoder-decoder network with model uncertainty for semantic segmentation](https://ieeexplore.ieee.org/abstract/document/8001187) 
+* 2015 BMVC | [Bayesian segnet: Model uncertainty in deep convolutional encoder-decoder architectures for scene understanding](https://arxiv.org/abs/1511.02680) | Alex Kendall, Roberto Cipolla
+
+##### object detection
+* 2019 ICCV | [Gaussian YOLOv3: An Accurate and Fast Object Detector Using Localization Uncertainty for Autonomous Driving](https://openaccess.thecvf.com/content_ICCV_2019/html/Choi_Gaussian_YOLOv3_An_Accurate_and_Fast_Object_Detector_Using_Localization_ICCV_2019_paper.html) | 
+* 2019 IEEE ITSC | [Uncertainty Estimation in One-Stage Object Detection](https://ieeexplore.ieee.org/abstract/document/8917494/) | 
+##### person Re-ID
+* 2019 ICCV | [Robust Person Re-Identification by Modelling Feature Uncertainty](https://openaccess.thecvf.com/content_ICCV_2019/html/Yu_Robust_Person_Re-Identification_by_Modelling_Feature_Uncertainty_ICCV_2019_paper.html) | Tianyuan Yu, Tao Xiang
+
 
 ## 噪声
 ### Survey
