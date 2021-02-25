@@ -42,6 +42,7 @@
 ### Survey
 * 2016 | [Uncertainty in Deep Learning](http://mlg.eng.cam.ac.uk/yarin/blog_2248.html) | YARIN GAL
 * 2017 NIPS | [What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?](https://arxiv.org/abs/1703.04977) | Alex Kendall, Yarin Gal | 
+* 2020 arXiv | [Face Image Quality Assessment: A Literature Survey](https://arxiv.org/abs/2009.01103) | Torsten Schlett, Christoph Busch
 ### Papers
 #### Model uncertainty 
 * 2019 EURASIP
@@ -52,6 +53,7 @@ Journal on Image and Video Processing | [Face recognition with Bayesian convolut
 * 2019 ICCV | [Probabilistic Face Embeddings](https://openaccess.thecvf.com/content_ICCV_2019/html/Shi_Probabilistic_Face_Embeddings_ICCV_2019_paper.html) | Yichun Shi, Anil K. Jain | 
 * 2020 CVPR | [Data Uncertainty Learning in Face Recognition](https://openaccess.thecvf.com/content_CVPR_2020/html/Chang_Data_Uncertainty_Learning_in_Face_Recognition_CVPR_2020_paper.html) | Jie Chang, Zhonghao Lan, Yichen Wei | [github(not official)](https://github.com/Ontheway361/dul-pytorch)
 * 2021 arXiv | [Reliable Probabilistic Face Embeddings in the Wild](https://arxiv.org/abs/2102.04075) | Kai Chen, Zhengming Yi | [github](https://github.com/KaenChan/ProbFace)
+
 ### Others
 #### Semantic segmentation  
 * 2017 IEEE INISTA | [Deep convolutional encoder-decoder network with model uncertainty for semantic segmentation](https://ieeexplore.ieee.org/abstract/document/8001187) 
@@ -62,6 +64,7 @@ Journal on Image and Video Processing | [Face recognition with Bayesian convolut
 * 2019 IEEE ITSC | [Uncertainty Estimation in One-Stage Object Detection](https://ieeexplore.ieee.org/abstract/document/8917494/) | 
 #### Person Re-ID
 * 2019 ICCV | [Robust Person Re-Identification by Modelling Feature Uncertainty](https://openaccess.thecvf.com/content_ICCV_2019/html/Yu_Robust_Person_Re-Identification_by_Modelling_Feature_Uncertainty_ICCV_2019_paper.html) | Tianyuan Yu, Tao Xiang
+* 2020 arXiv | [Exploiting Sample Uncertainty for Domain Adaptive Person Re-Identification](https://arxiv.org/abs/2012.08733) | Kecheng Zheng, Zheng-Jun Zha
 
 
 ## 噪声
