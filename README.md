@@ -51,6 +51,7 @@ Journal on Image and Video Processing | [Face recognition with Bayesian convolut
 #### Data uncertainty 
 * 2019 ICCV | [Probabilistic Face Embeddings](https://openaccess.thecvf.com/content_ICCV_2019/html/Shi_Probabilistic_Face_Embeddings_ICCV_2019_paper.html) | Yichun Shi, Anil K. Jain | 
 * 2020 CVPR | [Data Uncertainty Learning in Face Recognition](https://openaccess.thecvf.com/content_CVPR_2020/html/Chang_Data_Uncertainty_Learning_in_Face_Recognition_CVPR_2020_paper.html) | Jie Chang, Zhonghao Lan, Yichen Wei | [github(not official)](https://github.com/Ontheway361/dul-pytorch)
+* 2021 arXiv | [Reliable Probabilistic Face Embeddings in the Wild](https://arxiv.org/abs/2102.04075) | Kai Chen, Zhengming Yi | [github](https://github.com/KaenChan/ProbFace)
 ### Others
 #### Semantic segmentation  
 * 2017 IEEE INISTA | [Deep convolutional encoder-decoder network with model uncertainty for semantic segmentation](https://ieeexplore.ieee.org/abstract/document/8001187) 
