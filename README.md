@@ -45,6 +45,7 @@
 * 2020 arXiv | [Face Image Quality Assessment: A Literature Survey](https://arxiv.org/abs/2009.01103) | Torsten Schlett, Christoph Busch
 ### Papers
 #### Model uncertainty 
+* 2016 PMLR  | [Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning](http://proceedings.mlr.press/v48/gal16.html)
 * 2019 EURASIP
 Journal on Image and Video Processing | [Face recognition with Bayesian convolutional networks for robust surveillance systems](https://link.springer.com/article/10.1186/s13640-019-0406-y) | Umara Zafar, et al. | 
 * 2019 CVPR | [Striking the Right Balance With Uncertainty](https://openaccess.thecvf.com/content_CVPR_2019/html/Khan_Striking_the_Right_Balance_With_Uncertainty_CVPR_2019_paper.html) | Salman Khan, Ling Shao
