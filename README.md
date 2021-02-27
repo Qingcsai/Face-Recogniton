@@ -54,7 +54,7 @@ Journal on Image and Video Processing | [Face recognition with Bayesian convolut
 #### Data uncertainty 
 * 2019 ICCV | [Probabilistic Face Embeddings](https://openaccess.thecvf.com/content_ICCV_2019/html/Shi_Probabilistic_Face_Embeddings_ICCV_2019_paper.html) | Yichun Shi, Anil K. Jain | [github](https://github.com/seasonSH/Probabilistic-Face-Embeddings)
 * 2020 CVPR | [Data Uncertainty Learning in Face Recognition](https://openaccess.thecvf.com/content_CVPR_2020/html/Chang_Data_Uncertainty_Learning_in_Face_Recognition_CVPR_2020_paper.html) | Jie Chang, Zhonghao Lan, Yichen Wei | [github(not official)](https://github.com/Ontheway361/dul-pytorch)
-* 2020 CVPR | [Towards Universal Representation Learning for Deep Face Recognition](https://openaccess.thecvf.com/content_CVPR_2020/html/Shi_Towards_Universal_Representation_Learning_for_Deep_Face_Recognition_CVPR_2020_paper.html) | 
+* 2020 CVPR | [Towards Universal Representation Learning for Deep Face Recognition](https://openaccess.thecvf.com/content_CVPR_2020/html/Shi_Towards_Universal_Representation_Learning_for_Deep_Face_Recognition_CVPR_2020_paper.html) | Yichun Shi, Anil K. Jain
 * 2021 arXiv | [Reliable Probabilistic Face Embeddings in the Wild](https://arxiv.org/abs/2102.04075) | Kai Chen, Zhengming Yi | [github](https://github.com/KaenChan/ProbFace)
 
 ### Others
