@@ -21,6 +21,8 @@
   * Survey
   * Papers
   * Talks
+ * [数据集]()
+ 
 
 ## 总综述
 * 2020 | [The Elements of End-to-end Deep Face Recognition: A Survey of Recent Advances](https://arxiv.org/abs/2009.13290) | Hang Du, Tao Mei | 
@@ -86,3 +88,5 @@ Journal on Image and Video Processing | [Face recognition with Bayesian convolut
   * 2018 | [A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks](https://arxiv.org/abs/1610.02136) | Dan Hendrycks, Kevin Gimpel |
 ### Talks
 
+## 数据集
+* 2021 CVPR | [WebFace260M](https://www.face-benchmark.org/) | [paper](https://arxiv.org/abs/2103.04098)
