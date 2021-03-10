@@ -1,7 +1,7 @@
 # Face-Recogniton
 人脸识别不确定性、大规模训练相关
 
-## Table of Contents
+## 目录
 * [总综述](https://github.com/Qingcsai/Face-Recogniton#%E6%80%BB%E7%BB%BC%E8%BF%B0)
 * [人脸检测](https://github.com/Qingcsai/Face-Recogniton#%E4%BA%BA%E8%84%B8%E6%A3%80%E6%B5%8B)
   * Survey
