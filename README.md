@@ -45,6 +45,9 @@
 * 2016 | [Uncertainty in Deep Learning](http://mlg.eng.cam.ac.uk/yarin/blog_2248.html) | YARIN GAL
 * 2017 NIPS | [What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?](https://arxiv.org/abs/1703.04977) | Alex Kendall, Yarin Gal | 
 * 2020 arXiv | [Face Image Quality Assessment: A Literature Survey](https://arxiv.org/abs/2009.01103) | Torsten Schlett, Christoph Busch
+
+### Talk
+* 2019 Bilibili | [旷视上海研究院院长危夷晨：不确定性学习在视觉识别中的应用](https://www.bilibili.com/video/BV1RJ411D7QA)
 ### Papers
 #### Model uncertainty 
 * 2016 PMLR  | [Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning](http://proceedings.mlr.press/v48/gal16.html)
